@@ -1,4 +1,5 @@
 - [首页](README.md)
+- [服务器连接](connection.md)
 - [Docker *推荐](docker.md)
 - [conda 使用](conda.md)
 - [Pytorch](pytorch.md)
