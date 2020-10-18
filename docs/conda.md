@@ -41,6 +41,12 @@ custom_channels:
 
 `conda create -n torch python=3.6`
 
+### 复制环境
+
+`conda create -n resnet --clone torch`
+
+该命令会新建一个名为 resnet 的环境，并把 torch 环境中所有的库都复制到新建的环境中。
+
 ## 激活环境
 
 `conda activate torch`
