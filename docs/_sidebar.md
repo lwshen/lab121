@@ -3,3 +3,4 @@
 - [Docker *推荐](docker.md)
 - [conda 使用](conda.md)
 - [Pytorch](pytorch.md)
+- [Ubuntu 常用命令](ubuntu.md)
