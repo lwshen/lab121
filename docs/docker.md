@@ -14,6 +14,14 @@
 
 nvidia/cuda:9.0-base 为docker镜像的名称，这里为基础的cuda9.0的镜像包，可替换为其他
 
+### 其他 docker 镜像
+
+```
+tensorflow/tensorflow:1.12.3-gpu-py3
+pytorch/pytorch:1.6.0-cuda10.1-cudnn7-devel
+kundajelab/cuda-anaconda-base
+```
+
 ## 进入 Docker
 
 执行以下命令可以进入到docker容器中进行操作，其中的`01a`请自行替换成上一步操作中返回的容器ID
