@@ -2,11 +2,13 @@
 
 ## 运行 Docker
 
-`docker run -itd -v /mnt/md0/slw:/data --runtime=nvidia -e NVIDIA_VISIBLE_DEVICES=1 nvidia/cuda:9.0-base /bin/bash`
+`docker run -itd --name=slw-test1 -v /mnt/md0/slw:/data --runtime=nvidia -e NVIDIA_VISIBLE_DEVICES=1 nvidia/cuda:9.0-base /bin/bash`
 
 命令解释：
 
 -itd 为后台运行
+
+--name 指定容器名称，可以不填(随机)，建议根据具体使用功能命名，便于管理。
 
 -v /mnt/md0/slw:/data 是将服务器上`/mnt/md0/slw`文件夹映射到docker中的`/data`，这样在docker中只需要访问`/data`就可以访问到对应的文件了
 
