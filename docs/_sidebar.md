@@ -2,6 +2,6 @@
 - [服务器连接](connection.md)
 - [Docker *推荐](docker.md)
 - [conda 使用](conda.md)
-- [指定某块显卡运行](conda-visible-devices.md)
+- [指定某块显卡运行](cuda_visible_devices.md)
 - [Pytorch](pytorch.md)
 - [Ubuntu 常用命令](ubuntu.md)
