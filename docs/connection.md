@@ -4,6 +4,6 @@
 
 推荐使用xshell和xftp，下载链接：
 
-[xshell](https://www.slinvent.com/dl/Xshell-6.0.0204p.exe)
+[xshell](https://www.slinvent.com/dl/Xshell-7.0.0090p.exe)
 
-[xftp](https://www.slinvent.com/dl/Xftp-6.0.0199p.exe)
+[xftp](https://www.slinvent.com/dl/Xftp-7.0.0088p.exe)
