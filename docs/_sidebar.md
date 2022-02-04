@@ -5,3 +5,4 @@
 - [指定某块显卡运行](cuda_visible_devices.md)
 - [Pytorch](pytorch.md)
 - [Ubuntu 常用命令](ubuntu.md)
+- [推荐资料](recommend_resourses.md)
