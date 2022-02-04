@@ -1,6 +1,8 @@
-image:
-  file: .gitpod.Dockerfile
-
 tasks:
   - init: npm i docsify-cli -g
     command: docsify serve docs
+
+ports:
+- port: 3000
+  onOpen: open-preview
+  visibility: public
