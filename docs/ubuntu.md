@@ -4,6 +4,8 @@
 
 `sudo adduser username`
 
+- 请勿使用弱密码
+
 ## 添加用户到用户组
 
 `sudo usermod -aG groupA user`
